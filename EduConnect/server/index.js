@@ -26,7 +26,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://shikshashii-a-modern-space-for-learning-szhs.onrender.com"
+      "https://educonnect-fwv1.onrender.com"
     ],
     credentials: true,
   })
